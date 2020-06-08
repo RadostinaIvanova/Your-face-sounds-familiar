@@ -340,11 +340,11 @@ INSERT INTO SONG VALUES(3,10,'Help', 1965, 'Rock ', 'Beatles');
 
 INSERT INTO SONG VALUES(4,1,'Lose yourself', 2002, 'Hip hop', 'Eminem');
 INSERT INTO SONG VALUES(4,2,'Sicko mode', 2018, 'Hip hop', 'Travis Scott');
-INSERT INTO SONG VALUES(4,3,'Ice ice baby', 1989, 'Hip hop', 'Vanilla ice');
+INSERT INTO SONG VALUES(4,3,'Ice ice baby', 1989, 'Hip hop', 'Vanilla Ice');
 INSERT INTO SONG VALUES(4,5,'Changes', 1998, 'Hip hop', 'Tupac');
 INSERT INTO SONG VALUES(4,6,'X gonna give it to ya', 2003, 'Hip hop', 'DMX');
 INSERT INTO SONG VALUES(4,9,'Who let the dogs out', 2000, 'Hip hop', 'Baha man');
-INSERT INTO SONG VALUES(4,10,'Candy shop', 2003, 'Hip hop ', '50 cent');
+INSERT INTO SONG VALUES(4,10,'Candy shop', 2003, 'Hip hop ', '50 Cent');
 
 INSERT INTO SONG VALUES(5,2,'Izlel e Delio haidutin', 2007, 'Foklore', 'Valq Balkanska');
 INSERT INTO SONG VALUES(5,3,'The violin song', 2008, 'Foklore', 'Brianna');
@@ -359,7 +359,7 @@ INSERT INTO SONG VALUES(6,6,'Dont stop the music', 2002, 'Disco', 'Rihanna');
 INSERT INTO SONG VALUES(6,9,'Never worn', 2020, 'Disco', 'Katy Perry');
 INSERT INTO SONG VALUES(6,10,'Promises', 2018, 'Disco ', 'Calvin Harris');
 
-INSERT INTO SONG VALUES(7,2,'In the club', 2001, 'Rap', '50 cent');
+INSERT INTO SONG VALUES(7,2,'In the club', 2001, 'Rap', '50 Cent');
 INSERT INTO SONG VALUES(7,5,'Crazy in love', 2003, 'RNB', 'Beyonce');
 INSERT INTO SONG VALUES(7,9,'Poker face', 2008, 'Pop', 'Lady Gaga');
 INSERT INTO SONG VALUES(7,10,'Say it right', 2006, 'Pop ', 'Nelly Furtado');
