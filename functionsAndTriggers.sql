@@ -34,7 +34,6 @@ CREATE VIEW V_CONTESTANT_FINALSCORE(NAME,FINALSCORE)
 AS
     SELECT NAME,SUM(EP_SCORE) AS FINALSCORE FROM TABLE(FN45464.ID_CONTESTANT_POINTS())
 GROUP BY NAME;
-DROP VIEW V_CONTESTANT_FINALSCORE;
 
 --view that shows song and the contestant who sang it and the points he receives for it
 CREATE VIEW V_CONT_SONG_SCORE(NAME,SONG,TOTAL_SCORE)
@@ -44,8 +43,6 @@ AS
 WHERE S.CONTESTANTCODE = C.ID
 AND C.EPISODENO = S.EPISODENO;
 
-
-drop view V_CONT_SONG_SCORE;
 -- Triggers
 
 -- A trigger that is called before updating the funds and checking whether the total funds are greater
